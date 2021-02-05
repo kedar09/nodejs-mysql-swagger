@@ -1,5 +1,5 @@
 ﻿# NodeJs Mysql
-   Node.js Create-Read-Update-Delete application using Mysql.
+   Create-Read-Update-Delete operations using Node.js, MySQL.
 
 
 **Software prerequisites:**
